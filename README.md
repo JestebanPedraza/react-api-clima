@@ -19,4 +19,4 @@ Una aplicación web simple en React y TypeScript que muestra información del cl
 - API de OpenWeather
 
 ## 🌐 Link a la app deplegada en netlify
-benevolent-starburst-bab73a.netlify.app
+[benevolent-starburst-bab73a.netlify.app](benevolent-starburst-bab73a.netlify.app)
